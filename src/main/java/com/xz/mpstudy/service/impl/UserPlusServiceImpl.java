@@ -1,12 +1,9 @@
 package com.xz.mpstudy.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.xz.mpstudy.entity.User;
 import com.xz.mpstudy.entity.UserPlus;
-import com.xz.mpstudy.mapper.UserMapper;
 import com.xz.mpstudy.mapper.UserPlusMapper;
 import com.xz.mpstudy.service.UserPlusService;
-import com.xz.mpstudy.service.UserService;
 import org.springframework.stereotype.Service;
 
 /**

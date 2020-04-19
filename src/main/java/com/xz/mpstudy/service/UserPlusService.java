@@ -1,7 +1,6 @@
 package com.xz.mpstudy.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.xz.mpstudy.entity.User;
 import com.xz.mpstudy.entity.UserPlus;
 
 /**
